@@ -1,1 +1,1 @@
-# Vector-Control-of-Inverter-
+This project uses vector (dq) control to provide switching pulses for the inverter switches. The current and voltages are transformed using the transformation methods and Va, Vb, Vc references are generated which then are compared with a triangular carrier signal. As a result we get the 6 pulses for the inverter switches. This type of control also gives us the advantage of controlling the active and reactive power to be supplied to the grid. 
